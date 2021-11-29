@@ -5,7 +5,7 @@ Matplotlib_homework
 -The sex distribution of the mice was almost even, with a slightly higher number of male mice.
 -There is a strong positive correlation between mouse weight and the volume of the tumor; the heavier the mouse, the bigger the tumor.
 -10 different treatments were put to the test, including placebo effect.
--The tumour volume with Infubinol was the highest compared to Capomulin, Ramicane, and Ceftamin 
+-The tumor volume with Infubinol was the highest compared to Capomulin, Ramicane, and Ceftamin 
 
 #Instructions
 Your tasks are to do the following:
