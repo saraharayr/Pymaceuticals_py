@@ -1,5 +1,6 @@
 # Pymaceuticals_py
 Matplotlib_homework
+
 #Observations and insights
 -The sex distribution of the mice was almost even, with a slightly higher number of male mice.
 -There is a strong positive correlation between mouse weight and the volume of the tumor; the heavier the mouse, the bigger the tumor.
